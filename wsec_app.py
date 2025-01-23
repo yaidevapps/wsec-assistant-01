@@ -37,7 +37,7 @@ with st.sidebar:
         st.rerun()
 
 # Main title
-st.title("⚡ Washington State Energy Code Compliance Assistant")
+st.title("⚡ Washington State Energy Code Compliance Assistant 01")
 st.markdown("""
 This AI assistant helps architects and engineers verify compliance with the Washington State Energy Code (WSEC). 
 Discuss code requirements, upload architectural plans, and receive detailed compliance analysis.
